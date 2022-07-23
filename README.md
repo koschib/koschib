@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://koschisaves.file.core.windows.net/picskoschib/bloggif_62dc700332c06.gif" align="center" style="width: 100%" />
+<img src="https://drive.google.com/file/d/11_W2jM9Bx9df1w_jT1UpVTHDoK3q3JKo/view?usp=sharing" align="center" style="width: 100%" />
 </div>  
   
 
