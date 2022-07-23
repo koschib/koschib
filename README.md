@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/11_W2jM9Bx9df1w_jT1UpVTHDoK3q3JKo/view?usp=sharing" align="center" style="width: 100%" />
+<img src="https://avatars.githubusercontent.com/u/98027016?v=4" align="center" style="width: 100%" />
 </div>  
   
 
@@ -99,9 +99,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
