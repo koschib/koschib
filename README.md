@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://koschisaves.file.core.windows.net/picskoschib/bloggif_62dc700332c06.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -106,13 +106,7 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+<div align="center"></div>
 <br />
 
 ----
