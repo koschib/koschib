@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/98027016?v=4" align="center" style="width: 25%" />
-</div>  
+
   
 
 ### <div align="center">I´m Kevin, Lifelong learning, open to new techniques👨‍💻 working remotely since 2015 🚀</div>  
