@@ -75,7 +75,7 @@
 <a href="https://github.com/koschib" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/koschib" target="_blank">
+<a href="https://linkedin.com/in/koschib" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -95,7 +95,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=a76v0tmrchz6hc7l55jpvam4z&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3nRRAgdwNANDaROL99lnw2?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br/>  
 
