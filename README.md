@@ -7,11 +7,9 @@
 
 <br>
 
-- 👨‍💻 working remotely since 2015 🚀
+- 👨‍💻 create bugs since 12 years🚀
 
-- 🔭 Currently in a continuing education program to become a Cloud Developer and DevOps
-
-- 🌱 I’m currently learning for Azure AZ 104
+- 🌱 I’m currently learning for CKA
 
 <br/>  
 
