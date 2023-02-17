@@ -9,7 +9,7 @@
 
 - 👨‍💻 create bugs since 12 years🚀
 
-- 🌱 I’m currently learning for CKA
+- 🌱 Scrum PSMI, Azure AZ-900, AZ-104, Kubernetes CKA
 
 <br/>  
 
