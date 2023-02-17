@@ -9,8 +9,6 @@
 
 - 👨‍💻 create bugs since 12 years🚀
 
-- 🌱 Scrum PSMI, Azure AZ-900, AZ-104, Kubernetes CKA
-
 <br/>  
 
 ## My Skill Set
